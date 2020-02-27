@@ -1,4 +1,4 @@
-<h2> Kickstarter Book </h2>
+# kickstarter-book
 
 The purpose of this short project was to analyze a dataset of over 4000 Kickstarter campaigns.  Each campaign was assigned a colour-coded value from red for complete failure to reach their goal, shifting to green for higher rates of success and into blue for exceeding expectations.  The category and sub-category analyses shows the success of projects within certain categories with a table filterable by country. I also added two line graphs that compare rate of success to the time of year the project was launched and to the project's initial goal.
 
